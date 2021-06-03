@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--   1 alexsalazar  staff    0 Apr  9 13:58 lab-01-folders.txt
+drwxr-xr-x@ 13 alexsalazar  staff  416 Apr  9 10:32 p1
+drwxr-xr-x   2 alexsalazar  staff   64 Apr  7 18:44 p2
+drwxr-xr-x   2 alexsalazar  staff   64 Apr  7 18:44 p3
+drwxr-xr-x@  2 alexsalazar  staff   64 Apr  7 18:44 p4
+drwxr-xr-x   2 alexsalazar  staff   64 Apr  7 18:44 p5
+drwxr-xr-x   2 alexsalazar  staff   64 Apr  7 18:44 p6
+drwxr-xr-x   2 alexsalazar  staff   64 Apr  7 18:44 p7
+drwxr-xr-x@  2 alexsalazar  staff   64 Apr  7 18:44 p8
