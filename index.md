@@ -13,3 +13,5 @@ Lab goals and outcomes:
 *Part 4: Practice keyboard shortcuts
 
 *Part 5: Create your first Node.js server-side JavaScript file
+
+![Lab1](lab-01-node.png)
