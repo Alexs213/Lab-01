@@ -7,4 +7,4 @@ Part 1: Install and setup your personal computer with the software tools require
 <br>Part 4: Practice keyboard shortcuts
 <br>Part 5: Create your first Node.js server-side JavaScript file
 
-![Image](lab-01-node.js)
+![Image](lab-01-node.png)
